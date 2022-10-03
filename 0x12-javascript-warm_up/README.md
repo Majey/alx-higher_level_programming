@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x12. JavaScript - Warm up
 
 ## Concepts Learnt 
@@ -17,3 +18,6 @@
 - What are the arithmetic operators and how to use them
 - How to manipulate dictionary
 - How to import a file
+=======
+# JavaScript - Warm up
+>>>>>>> 81e18e526ae42c7694b447cf0fe3cd061bd57dd1
