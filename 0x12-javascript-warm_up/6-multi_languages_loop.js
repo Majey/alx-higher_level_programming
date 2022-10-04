@@ -1,7 +1,10 @@
 #!/usr/bin/node
+const multiLine = [
+  'C is fun',
+  'Python is cool',
+  'JavaScript is amazing'
+];
 
-// ['C is fun', 'Python is cool', 'JavaScript is amazing'].forEach((e) => console.log(e));
-
-const msg = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
-
-msg.forEach((element) => console.log(element));
+for (let i = 0; i < multiLine.length; i++) {
+  console.log(multiLine[i]);
+}
